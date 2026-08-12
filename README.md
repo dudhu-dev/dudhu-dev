@@ -2,3 +2,9 @@
 <p>Tenho 16 anos e estou estudando desenvolvimento de sistemas no SENAI Paulo Antonio Skaf
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dudhu-dev&show_icons=true&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=dudhu-dev&show_icons=true&include_all_commits=true&theme=vue)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudhu-dev/dudhu-dev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudhu-dev/dudhu-dev/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/dudhu-dev/dudhu-dev/output/snake.svg">
+</picture>
